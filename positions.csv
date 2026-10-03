@@ -1,0 +1,6 @@
+id,name,asset,market_value,duration,convexity,krd_2y,krd_5y,krd_10y
+EQ1,Global equity basket,equity,5000000,0,0,0,0,0
+EQ2,Equity index hedge,equity,-1500000,0,0,0,0,0
+BD1,Treasury portfolio,bond,4000000,6.2,0,0.4,1.8,4.0
+BD2,Short-duration bonds,bond,2000000,2.1,0,1.6,0.4,0.1
+FX1,EUR cash exposure,fx,1500000,0,0,0,0,0

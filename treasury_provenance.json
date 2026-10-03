@@ -1,0 +1,18 @@
+{
+  "label": "U.S. Treasury 2024\u20132025",
+  "kind": "historical_rates",
+  "source": "U.S. Department of the Treasury, Daily Treasury Par Yield Curve Rates, 2Y/5Y/10Y.",
+  "scope": "Bond-only hypothetical book. Equity and FX positions are excluded; their zero factor placeholders are never used for risk.",
+  "calendar": "Official published observation dates. First level is consumed to form changes; no filling or interpolation.",
+  "usage_basis": "Numerical observations from a public U.S. federal government statistical release; source attribution retained. No third-party equity dataset redistributed.",
+  "urls": [
+    "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024",
+    "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2025"
+  ],
+  "retrieved_date": "2026-10-03",
+  "retrieval_method": "Official annual HTML tables; extracted by labelled 2 Yr, 5 Yr, 10 Yr columns.",
+  "levels_count": 499,
+  "first_date": "2024-01-02",
+  "last_date": "2025-12-31",
+  "levels_sha256": "61e37adc88f86aedd91453f48e76080f352a1fd671dd1fa2847b3a8444948eb8"
+}
