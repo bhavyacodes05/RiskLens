@@ -27,4 +27,3 @@ Historical VaR/ES, normal VaR benchmark, duration-convexity bond shocks, scenari
 
 Run tests: `python -m unittest discover -s tests -v`.
 Save a default report: `python app.py --report`.
-Read `docs/METHODOLOGY.md` and `docs/INTERVIEW_GUIDE.md` for financial assumptions and interview preparation.
